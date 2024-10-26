@@ -1,0 +1,201 @@
+[ {
+  "Year" : "1990",
+  "WinPct" : 0.388,
+  "TeamName" : "Buffalo Sabres",
+  "EpochTime" : 1729948262
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.388,
+  "TeamName" : "Hartford Whalers",
+  "EpochTime" : 1729948262
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.338,
+  "TeamName" : "Minnesota North Stars",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.312,
+  "TeamName" : "New York Islanders",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.2,
+  "TeamName" : "Quebec Nordiques",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.287,
+  "TeamName" : "Toronto Maple Leafs",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.35,
+  "TeamName" : "Vancouver Canucks",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.325,
+  "TeamName" : "Winnipeg Jets",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.388,
+  "TeamName" : "Buffalo Sabres",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.388,
+  "TeamName" : "Calgary Flames",
+  "EpochTime" : 1729948263
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.388,
+  "TeamName" : "Buffalo Sabres",
+  "EpochTime" : 1729948265
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.388,
+  "TeamName" : "Hartford Whalers",
+  "EpochTime" : 1729948265
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.338,
+  "TeamName" : "Minnesota North Stars",
+  "EpochTime" : 1729948265
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.312,
+  "TeamName" : "New York Islanders",
+  "EpochTime" : 1729948265
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.2,
+  "TeamName" : "Quebec Nordiques",
+  "EpochTime" : 1729948265
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.287,
+  "TeamName" : "Toronto Maple Leafs",
+  "EpochTime" : 1729948265
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.35,
+  "TeamName" : "Vancouver Canucks",
+  "EpochTime" : 1729948266
+}, {
+  "Year" : "1990",
+  "WinPct" : 0.325,
+  "TeamName" : "Winnipeg Jets",
+  "EpochTime" : 1729948266
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.388,
+  "TeamName" : "Buffalo Sabres",
+  "EpochTime" : 1729948266
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.388,
+  "TeamName" : "Calgary Flames",
+  "EpochTime" : 1729948266
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.325,
+  "TeamName" : "Hartford Whalers",
+  "EpochTime" : 1729948267
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.25,
+  "TeamName" : "Quebec Nordiques",
+  "EpochTime" : 1729948268
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.212,
+  "TeamName" : "San Jose Sharks",
+  "EpochTime" : 1729948268
+}, {
+  "Year" : "1991",
+  "WinPct" : 0.375,
+  "TeamName" : "Toronto Maple Leafs",
+  "EpochTime" : 1729948268
+}, {
+  "Year" : "1992",
+  "WinPct" : 0.31,
+  "TeamName" : "Edmonton Oilers",
+  "EpochTime" : 1729948268
+}, {
+  "Year" : "1992",
+  "WinPct" : 0.31,
+  "TeamName" : "Hartford Whalers",
+  "EpochTime" : 1729948268
+}, {
+  "Year" : "1992",
+  "WinPct" : 0.119,
+  "TeamName" : "Ottawa Senators",
+  "EpochTime" : 1729948270
+}, {
+  "Year" : "1992",
+  "WinPct" : 0.131,
+  "TeamName" : "San Jose Sharks",
+  "EpochTime" : 1729948270
+}, {
+  "Year" : "1992",
+  "WinPct" : 0.274,
+  "TeamName" : "Tampa Bay Lightning",
+  "EpochTime" : 1729948270
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.393,
+  "TeamName" : "Mighty Ducks of Anaheim",
+  "EpochTime" : 1729948271
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.298,
+  "TeamName" : "Edmonton Oilers",
+  "EpochTime" : 1729948271
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.393,
+  "TeamName" : "Florida Panthers",
+  "EpochTime" : 1729948272
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.321,
+  "TeamName" : "Hartford Whalers",
+  "EpochTime" : 1729948272
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.321,
+  "TeamName" : "Los Angeles Kings",
+  "EpochTime" : 1729948273
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.167,
+  "TeamName" : "Ottawa Senators",
+  "EpochTime" : 1729948273
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.393,
+  "TeamName" : "San Jose Sharks",
+  "EpochTime" : 1729948273
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.357,
+  "TeamName" : "Tampa Bay Lightning",
+  "EpochTime" : 1729948273
+}, {
+  "Year" : "1993",
+  "WinPct" : 0.286,
+  "TeamName" : "Winnipeg Jets",
+  "EpochTime" : 1729948273
+}, {
+  "Year" : "1994",
+  "WinPct" : 0.333,
+  "TeamName" : "Mighty Ducks of Anaheim",
+  "EpochTime" : 1729948273
+}, {
+  "Year" : "1994",
+  "WinPct" : 0.354,
+  "TeamName" : "Dallas Stars",
+  "EpochTime" : 1729948273
+} ]
